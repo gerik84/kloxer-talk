@@ -1,0 +1,6 @@
+## Interface: 90005
+## Title: KloxerSpellTalk: сообщает о стане в чат
+## Notes: KloxerSpellTalk
+## Author: MainKloxer
+## Version: 9.0.5 (v000000000001)
+core.xml
